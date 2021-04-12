@@ -1,0 +1,21 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="7">
+            <item index="0" class="java.lang.String" itemvalue="_msthash" />
+            <item index="1" class="java.lang.String" itemvalue="_msttexthash" />
+            <item index="2" class="java.lang.String" itemvalue="_msthidden" />
+            <item index="3" class="java.lang.String" itemvalue="_mstaria-label" />
+            <item index="4" class="java.lang.String" itemvalue="role" />
+            <item index="5" class="java.lang.String" itemvalue="_mstmutation" />
+            <item index="6" class="java.lang.String" itemvalue="_istranslated" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+  </profile>
+</component>
